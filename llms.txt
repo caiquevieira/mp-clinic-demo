@@ -1,0 +1,21 @@
+# MP Clinic
+
+> Saúde e estética integrativa em R. Mal. Olímpio Mourão Filho, 79 – Vila São Francisco, São Paulo – SP, 05352-080. Harmonização facial e corporal, bioestimulador de colágeno, emagrecimento ortomolecular e depilação a laser, com a biomédica Dra. Marilucia Rosa. Atendimento pelo WhatsApp (11) 98963-9606.
+
+## Dados do negócio
+
+- Endereço: R. Mal. Olímpio Mourão Filho, 79 – Vila São Francisco, São Paulo – SP, 05352-080
+- Horário: Seg a sex, 8h às 20h; sáb, 8h às 17h
+- WhatsApp: (11) 98963-9606 (https://wa.me/5511989639606)
+- Instagram: https://www.instagram.com/mpclinic_estetica
+
+## Serviços
+
+- Harmonização facial (inclui preenchimento labial)
+- Harmonização corporal: protocolo #Lipo Intense
+- Emagrecimento ortomolecular, bioestimulador de colágeno e depilação a laser
+
+## Páginas
+
+- [Página inicial](https://{{DOMINIO}}/)
+- [Política de Privacidade](https://{{DOMINIO}}/politica-de-privacidade.html)

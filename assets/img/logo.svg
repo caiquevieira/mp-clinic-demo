@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="40 24 302 508" width="302" height="508" role="img" aria-label="MP Clinic">
+  <g fill="none" stroke="#bca67a" stroke-width="13" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M82 455C110 495 150 512 192 512C265 512 322 460 322 395V160C322 92 262 43 191 43C120 43 60 92 60 160V385C60 415 85 432 120 432H150C170 432 185 418 185 395V200C185 168 172 146 150 131H122V228C122 268 154 296 196 296C240 296 272 268 272 228V130H205C186 130 172 140 165 152"/>
+    <path d="M90 300C120 305 145 335 145 380C110 375 90 345 90 300Z"/>
+    <path d="M275 375C240 380 215 405 215 460C255 455 275 420 275 375Z"/>
+  </g>
+</svg>
